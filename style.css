@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon+SC&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  background: #34495e;
+}
+.box {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  padding: 5px;
+  background: #f1f1f1;
+}
+.box a {
+  width: 40px;
+  height: 40px;
+  float: left;
+  text-indent: -9999px;
+  margin: 5px;
+  cursor: pointer;
+}
+#color1 {
+  background: #a9c23c;
+}
+#color2 {
+  background: #74b051;
+}
+#color3 {
+  background: #bfe0c0;
+}
+#color4 {
+  background: #da3ae8;
+}
+#color5 {
+  background: #ec9a29;
+}
+#color6 {
+  background: #325fa2;
+}
+#color7 {
+  background: #da3ae8;
+}
+#color8 {
+  background: #7e6f8f;
+}
+#color9 {
+  background: #44ad70;
+}
+
+h1,
+p,
+a {
+  text-align: center;
+  font-family: "IM Fell French Canon SC", serif;
+  color: #000000;
+}
+p,
+a {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.art {
+  margin: auto;
+}
+td {
+  height: 300px;
+  width: 150px;
+  border: 6px solid white;
+}
+#one {
+  background-color: #dad2d8;
+}
+#two {
+  background-color: #325fa2;
+}
+#three {
+  background-color: #143642;
+}
+#four {
+  background-color: #ec9a29;
+}
+#five {
+  background-color: #325fa2;
+}
+#six {
+  background-color: #da3ae8;
+}
+#seven {
+  background-color: #d8b4db;
+}
+#eight {
+  background-color: #8440d6;
+}
+#nine {
+  background-color: #7e6f8f;
+}
+#ten {
+  background-color: #469ddb;
+}
+#eleven {
+  background-color: #379191;
+}
+#twelve {
+  background-color: #44ad70;
+}
+
+#thirteen {
+  background-color: #bfe0c0;
+}
+#fourteen {
+  background-color: #74b051;
+}
+#fifteen {
+  background-color: #a9c23c;
+}
+.footer-container {
+  max-width: 1300px;
+  margin: auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+}
+@media screen and (max-width: 960px) {
+  .footer-container {
+    max-width: 600px;
+  }
+  /* .right-col{
+    width: 100%;
+    margin-bottom: 60px;
+  } */
+
+  .left-col {
+    width: 100%;
+    text-align: center;
+  }
+}
+.left-col {
+  width: 100%;
+  text-align: center;
+}
