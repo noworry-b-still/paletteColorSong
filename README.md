@@ -14,4 +14,3 @@ Happy learning.
 
 Also you can clone and add your tastes into my repository..And show me (I will be glad to check them)
 
-https://vegmedquotes.xyz/
